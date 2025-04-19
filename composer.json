@@ -1,0 +1,14 @@
+
+{
+    "name": "radio-panel",
+    "description": "A simple radio panel system",
+    "require": {
+        "php": "^8.0",
+        "laravel/framework": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\": "app/"
+        }
+    }
+}
